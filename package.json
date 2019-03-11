@@ -1,5 +1,5 @@
 {
-  "name": "challenge_2",
+  "name": "boilerplate-server-client",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
@@ -7,7 +7,7 @@
     "start": "nodemon server.js",
     "webpack": "webpack -d --watch"
   },
-  "author": "",
+  "author": "James Boyett",
   "license": "ISC",
   "keywords": [],
   "dependencies": {
@@ -23,5 +23,13 @@
     "webpack-cli": "^3.2.3"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "Boilerplate for a simple Clinet-Serverside",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kyruski/boilerplate-clientserver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kyruski/boilerplate-clientserver/issues"
+  },
+  "homepage": "https://github.com/Kyruski/boilerplate-clientserver#readme"
 }
